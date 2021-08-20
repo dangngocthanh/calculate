@@ -1,0 +1,15 @@
+#a{border-collapse: collapse }
+button{
+    width: 100%;
+    color: blue;
+}
+table{
+    border-color: black;
+}
+#result{
+    border-collapse: collapse;
+}
+td{
+    width: 10px;
+    border-color: darkgray;
+}
